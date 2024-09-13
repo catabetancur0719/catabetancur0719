@@ -9,12 +9,15 @@ I bring over six years of experience working at a tech company focused on sports
 💼 **Work Experience** 
 
 **- Genius Sports:** Statistician & Network Administrator | Oct 2017 - Feb 2024
+
 **- Gema Tours:** Hospitality Agent | May 2017 - Nov 2019
+
 **- Easy Fly:** Aircraft Dispatcher | Jul 2016 - Jan 2017
 
 📚 **Education**
 
 **- Laboratoria:** Web Development | Oct 2024
+
 **- She Codes Basics:** Basic Web Development | 2022
 
 
