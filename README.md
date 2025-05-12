@@ -1,24 +1,76 @@
-# 💫 About Me:
+# 👋 Hi, I'm Catalina Betancur
 
-👩🏼‍💻 Hi, I'm **Catalina Betancur**, a junior web developer passionate about continuous learning and mastering new languages like **HTML, CSS, and JavaScript**.
+I'm a **Junior Frontend Developer** based in Medellín, Colombia 🇨🇴. I enjoy turning designs into functional, responsive, and user-friendly interfaces. I'm passionate about creating meaningful digital experiences and always eager to learn and improve.
 
-I'm currently working on a project called **Dataverse Chat**, where I'm honing my logic skills by applying HTML, CSS, and especially vanilla JavaScript. In this project, I'm integrating artificial intelligence to enable chats with characters created within the code.
+---
 
-I bring over six years of experience working at a tech company focused on sports and betting, where I had the opportunity to strengthen skills like **task prioritization, time management, and communication**.
+## 💡 About Me
 
-💼 **Work Experience** 
+- 💻 I specialize in **React Native**, **JavaScript**, **HTML**, and **CSS**.
+- 🧠 Currently learning about **API integrations**, **automations**, and **low-code tools**.
+- 🤖 Exploring the intersection of **AI and web development**, with a focus on user interaction.
+- 👥 6+ years of experience working in the tech industry in roles that sharpened my skills in communication, time management, and problem-solving.
 
-**- Genius Sports:** Statistician & Network Administrator | Oct 2017 - Feb 2024
+---
 
-**- Gema Tours:** Hospitality Agent | May 2017 - Nov 2019
+## 🚀 Projects
 
-**- Easy Fly:** Aircraft Dispatcher | Jul 2016 - Jan 2017
+### ✈️ Crew Schedule App (2025)
+A mobile scheduling tool for aviation dispatchers to assign flights, pilots, and aircraft.  
+**Tech:** React Native, TypeScript, Expo, AsyncStorage  
+**Features:**
+- Interactive calendar
+- Dropdown selections for assignments
+- Real-time conflict alerts
 
-📚 **Education**
+### 💬 Dataverse Chat (2024)
+Single Page Application that integrates OpenAI's API to enable interactive chat with AI-generated characters.  
+**Tech:** JavaScript, Node.js, API integration  
+**Highlights:**
+- Custom prompts
+- Dynamic data rendering
+- Optimized UI/UX logic
 
-**- Laboratoria:** Web Development | Oct 2024
+### 📊 Dataverse (2024)
+Interactive portal to visualize and filter AI-generated data.  
+**Tech:** HTML, CSS, JavaScript  
+**Highlights:**
+- Usability-focused filtering tools
+- Clean data display
+- Responsive design
 
-**- She Codes Basics:** Basic Web Development | 2022
+---
+
+## 💼 Work Experience
+
+- **Genius Sports** – Statistician & Network Administrator (2017–2024)  
+  Improved live event coverage by recruiting over 100 statisticians across the US. Provided tech support, escalated issues via Jira & Slack, and coordinated live sports scheduling.
+
+- **Gema Tours** – Hospitality Agent (2017–2019)
+
+- **Easy Fly** – Aircraft Dispatcher Intern (2016–2017)
+
+---
+
+## 🎓 Education
+
+- **Comunidad IT** – React Native | 2025  
+- **Laboratoria** – Web Development Bootcamp | 2024  
+- **SheCodes** – Web Development Fundamentals | 2022  
+
+---
+
+## 🛠️ Skills
+
+**Frontend:** HTML, CSS, JavaScript, React Native, Responsive Design  
+**Tools:** Git & GitHub, Figma, Jira, Slack, Expo  
+**Languages:** Spanish (native), English (C1), French (A2)  
+
+---
+
+📫 **Let's Connect!**  
+[LinkedIn](https://www.linkedin.com/in/tu-linkedin) | [Portfolio](https://tuportafolio.com) | [Email](mailto:catalina.betancur0719@gmail.com)
+
 
 
 ## 🌐 Socials:
