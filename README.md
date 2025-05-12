@@ -8,8 +8,8 @@ I'm a **Junior Frontend Developer** based in Medellín, Colombia 🇨🇴. I enj
 
 - 💻 I specialize in **React Native**, **JavaScript**, **HTML**, and **CSS**.
 - 🧠 Currently learning about **API integrations**, **automations**, and **low-code tools**.
-- 🤖 Exploring the intersection of **AI and web development**, with a focus on user interaction.
-- 👥 6+ years of experience working in the tech industry in roles that sharpened my skills in communication, time management, and problem-solving.
+- 🤖 Exploring the intersection of **AI and web development**, focusing on user interaction.
+- 👥 6+ years of experience working in the tech industry in roles that sharpened my communication, time management, and problem-solving skills.
 
 ---
 
@@ -32,7 +32,7 @@ Single Page Application that integrates OpenAI's API to enable interactive chat 
 - Optimized UI/UX logic
 
 ### 📊 Dataverse (2024)
-Interactive portal to visualize and filter AI-generated data.  
+An interactive portal to visualize and filter AI-generated data.  
 **Tech:** HTML, CSS, JavaScript  
 **Highlights:**
 - Usability-focused filtering tools
@@ -67,11 +67,6 @@ Interactive portal to visualize and filter AI-generated data.
 **Languages:** Spanish (native), English (C1), French (A2)  
 
 ---
-
-📫 **Let's Connect!**  
-[LinkedIn](https://www.linkedin.com/in/tu-linkedin) | [Portfolio](https://tuportafolio.com) | [Email](mailto:catalina.betancur0719@gmail.com)
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/catalina-betancur) 
