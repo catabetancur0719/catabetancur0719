@@ -7,7 +7,6 @@ I'm a **Junior Frontend Developer** based in Medellín, Colombia. I enjoy turnin
 ## 💡 About Me
 
 - 💻 I specialize in **React Native**, **JavaScript**, **HTML**, and **CSS**.
-- 🧠 Currently learning about **API integrations**, **automations**, and **low-code tools**.
 - 🤖 Exploring the intersection of **AI and web development**, focusing on user interaction.
 - 👥 6+ years of experience working in the tech industry in roles that sharpened my communication, time management, and problem-solving skills.
 
