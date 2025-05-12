@@ -1,79 +1,18 @@
-# 👋 Hi, I'm Catalina Betancur
+# 💫 About Me:
+👋 Hi! I'm Catalina, a junior frontend and mobile developer.<br><br>Before becoming a developer, I worked for over 6 years in the sports tech and betting industry.<br><br>💡 I love building clean, intuitive interfaces and learning new tools to improve the user experience. I'm currently focused on React Native and mobile-first apps.<br><br>🎯 My goal is to create meaningful, accessible solutions through code, especially projects that combine design, logic, and real-world use.<br><br>🛠️ Tech I'm working with: JavaScript, React, React Native, TypeScript, Tailwind CSS, Node.js.<br><br>📍 Based in Colombia | Open to remote work<br>
 
-I'm a **Junior Frontend Developer** based in Medellín, Colombia. I enjoy turning designs into functional, responsive, and user-friendly interfaces. I'm passionate about creating meaningful digital experiences and always eager to learn and improve.
-
----
-
-## 💡 About Me
-
-- 💻 I specialize in **React Native**, **JavaScript**, **HTML**, and **CSS**.
-- 🤖 Exploring the intersection of **AI and web development**, focusing on user interaction.
-- 👥 6+ years of experience working in the tech industry in roles that sharpened my communication, time management, and problem-solving skills.
-
----
-
-## 🚀 Projects
-
-### ✈️ Crew Schedule App (2025)
-A mobile scheduling tool for aviation dispatchers to assign flights, pilots, and aircraft.  
-**Tech:** React Native, TypeScript, Expo, AsyncStorage  
-**Features:**
-- Interactive calendar
-- Dropdown selections for assignments
-- Real-time conflict alerts
-
-### 💬 Dataverse Chat (2024)
-Single Page Application that integrates OpenAI's API to enable interactive chat with AI-generated characters.  
-**Tech:** JavaScript, Node.js, API integration  
-**Highlights:**
-- Custom prompts
-- Dynamic data rendering
-- Optimized UI/UX logic
-
-### 📊 Dataverse (2024)
-An interactive portal to visualize and filter AI-generated data.  
-**Tech:** HTML, CSS, JavaScript  
-**Highlights:**
-- Usability-focused filtering tools
-- Clean data display
-- Responsive design
-
----
-
-## 💼 Work Experience
-
-- **Genius Sports** – Statistician & Network Administrator (2017–2024)  
-  Improved live event coverage by recruiting over 100 statisticians across the US. Provided tech support, escalated issues via Jira & Slack, and coordinated live sports scheduling.
-
-- **Gema Tours** – Hospitality Agent (2017–2019)
-
-- **Easy Fly** – Aircraft Dispatcher Intern (2016–2017)
-
----
-
-## 🎓 Education
-
-- **Comunidad IT** – React Native | 2025  
-- **Laboratoria** – Web Development Bootcamp | 2024  
-- **SheCodes** – Web Development Fundamentals | 2022  
-
----
-
-## 🛠️ Skills
-
-**Frontend:** HTML, CSS, JavaScript, React Native, Responsive Design  
-**Tools:** Git & GitHub, Figma, Jira, Slack, Expo  
-**Languages:** Spanish (native), English (C1), French (A2)  
-
----
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/catalina-betancur) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/catalina-betancur/) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=catabetancur0719&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=catabetancur0719&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=catabetancur0719&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=catabetancur0719&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=catabetancur0719&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=catabetancur0719&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=catabetancur0719&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
