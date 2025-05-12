@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Catalina Betancur
 
-I'm a **Junior Frontend Developer** based in Medellín, Colombia 🇨🇴. I enjoy turning designs into functional, responsive, and user-friendly interfaces. I'm passionate about creating meaningful digital experiences and always eager to learn and improve.
+I'm a **Junior Frontend Developer** based in Medellín, Colombia. I enjoy turning designs into functional, responsive, and user-friendly interfaces. I'm passionate about creating meaningful digital experiences and always eager to learn and improve.
 
 ---
 
